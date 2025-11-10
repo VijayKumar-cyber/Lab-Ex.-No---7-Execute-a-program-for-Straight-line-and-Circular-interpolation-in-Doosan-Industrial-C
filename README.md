@@ -31,25 +31,18 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 ## Procedure:
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
-
-Linear Interpolation
-
-
-
-
-
-
-
-
-Circular Interpolation
-
-### output
-
+<img width="1046" height="679" alt="Screenshot 2025-11-10 161215" src="https://github.com/user-attachments/assets/7e2ef3ac-6a03-4570-bcaf-cb88d2f09df3" />
+<img width="1054" height="690" alt="Screenshot 2025-11-10 161303" src="https://github.com/user-attachments/assets/0c21e251-b9ff-40c6-82a6-353c954320be" />
+<img width="1017" height="667" alt="Screenshot 2025-11-10 161253" src="https://github.com/user-attachments/assets/8b42d35c-bb03-44e9-b35e-24184ec8556d" />
+<img width="1052" height="696" alt="Screenshot 2025-11-10 161239" src="https://github.com/user-attachments/assets/d98628e3-adf4-4fa4-9e70-7ad5f6590895" />
+<img width="1053" height="682" alt="Screenshot 2025-11-10 161226" src="https://github.com/user-attachments/assets/59605e0d-0927-465a-bc32-f8d3da07b39d" />
+<img width="1047" height="745" alt="Screenshot 2025-11-10 161331" src="https://github.com/user-attachments/assets/4504751e-77a5-4424-b139-263892164def" />
+<img width="1048" height="741" alt="Screenshot 2025-11-10 161318" src="https://github.com/user-attachments/assets/7288d549-c5f5-442a-bdb6-6c9b64cc6128" />
 
 
 
 ### Results 
-
+Thus,a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio executed.
 
 
  
